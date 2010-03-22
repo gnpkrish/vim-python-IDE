@@ -1,0 +1,5 @@
+VIM IDE Configuration for python development
+git clone git://github.com/gnpkrish/vim-python-IDE.git ~/.vim
+
+thats all now you enjoy with vim as python IDE
+
